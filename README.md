@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Synoctem but I also go by TJ to make communicating with me a bit easier.
+- 👀 I’m interested in multiple different things from coding and 3d printing to tabletop and music.
+-  I can't stick to one thing because a lot of things interest me. So, I'm always looking forward to diving into new things.
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: ...
+
+<!---
+Synoctem/Synoctem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
